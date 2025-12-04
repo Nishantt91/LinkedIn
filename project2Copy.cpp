@@ -7,7 +7,7 @@
 // **** //
 // header.h = includes everything in class // reference header.h in cpp with Functions & Main.
 
-
+// This part is new, committed via terminal*
 
 using namespace std;
 
